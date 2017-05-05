@@ -1,0 +1,9 @@
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\bin\Debug\Laba_6_2.exe.config
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\bin\Debug\Laba_6_2.exe
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\bin\Debug\Laba_6_2.pdb
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\obj\Debug\Laba_6_2.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\obj\Debug\Laba_6_2.Form1.resources
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\obj\Debug\Laba_6_2.Properties.Resources.resources
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\obj\Debug\Laba_6_2.csproj.GenerateResource.Cache
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\obj\Debug\Laba_6_2.exe
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_6\Laba_6_2\Laba_6_2\obj\Debug\Laba_6_2.pdb
